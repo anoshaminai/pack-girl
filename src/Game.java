@@ -1,8 +1,3 @@
-/**
- * CIS 120 Game HW
- * (c) University of Pennsylvania
- * @version 2.0, Mar 2013
- */
 
 // imports necessary libraries for Java swing
 import java.awt.*;
